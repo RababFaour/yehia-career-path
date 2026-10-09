@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Project Description
 
-This project is a career dashboard built with Next.js and React. It helps organize career-related information and practice web development.
+This project is a career dashboard built with Next.js. It helps organize career-related information and practice web development.
 
 ## How to Run Locally
 
