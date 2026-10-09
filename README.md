@@ -1,12 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-##Yehia Career Path
+## Yehia Career Path
 
-##Project Description
+## Project Description
 
 This project is a career dashboard built with Next.js and React. It helps organize career-related information and practice web development.
 
-##How to Run Locally
+## How to Run Locally
 
 1. Install Node.js.
 2. Open a terminal in the project folder.
@@ -14,7 +14,7 @@ This project is a career dashboard built with Next.js and React. It helps organi
 4. Run "npm run dev".
 5. Open http://localhost:3000 in your browser.
 
-##Explain Choices
+## Explain Choices
 
 -I used "await" when reading "params" because "params" is asynchronous in newer versions of Next.js. It allows me to get the route parameters before using them.
 
