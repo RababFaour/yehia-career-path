@@ -22,7 +22,7 @@ This project is a career dashboard built with Next.js and React. It helps organi
 
 -The dashboard layout contains shared elements, such as navigation and the sidebar. Each dashboard page contains its own specific content.
 
-Open [http://localhost:3000/](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
