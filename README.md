@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Yehia Career Path
-**Author:**Rabab Ali Faour
+## Author:Rabab Ali Faour
 ## Project Description
 
 This project is a career dashboard built with Next.js. It helps organize career-related information and practice web development.
